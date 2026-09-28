@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="titulo">
+  <title id="titulo">Barrio Alerta</title>
+  <rect width="64" height="64" rx="12" fill="#ffc107"/>
+  <path d="M32 8c-11 0-20 8.6-20 19.3C12 42 32 56 32 56s20-14 20-28.7C52 16.6 43 8 32 8Z" fill="#212529"/>
+  <circle cx="32" cy="27" r="7" fill="#ffc107"/>
+</svg>

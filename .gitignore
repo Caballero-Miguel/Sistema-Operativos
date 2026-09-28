@@ -1,0 +1,9 @@
+.env
+.idea/
+vendor/
+public/uploads/*
+!public/uploads/.gitkeep
+logs/*.log
+
+.DS_Store
+Thumbs.db
